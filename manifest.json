@@ -1,0 +1,11 @@
+{
+    "name": "Timer",
+    "version": "1.0.0",
+    "description":"A simple timer app for Windows",
+    "author": "Irish John De Roxas",
+    "manifest_version": 3,
+    "action":{
+        "default_popup": "index.html",
+        "default_title":"Timer"
+    }
+}
